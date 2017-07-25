@@ -6,7 +6,13 @@ Bookmark button template tag. Adds a bookmark button for users to mark where the
 ### Parameters
 * `$attrs (array)` Array of parameters.
     * `$show_history (boolean)` Show bookmark history link and drop-down. Defaults to false.
+    * `$no_styling (boolean)` Disable default styling of history drop-down. Defaults to false.
     * `$echo (boolean)` Specify whether or not to display or return output. Defaults to true (display output).
+
+### Usage
+```php
+<?php mangapress_comic_navigation($args); ?>
+```
 
 {% sample lang="php" -%}
 ### Example
