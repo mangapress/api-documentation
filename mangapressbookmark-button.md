@@ -44,5 +44,12 @@ Short example of using `mangapress_bookmark_button()`:
 </div>
 ```
 
+{% sample lang="css" -%}
+### CSS classes
+
+```css
+.bookmark-history-modal
+```
+
 {% endmethod %}
 
