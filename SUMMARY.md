@@ -21,6 +21,7 @@
 * [mangapress\_get\_calendar](//mangapress-get-calendar.md)
 * [mangapress\_month\_link](mangapress-month-link.md)
 * [mangapress\_day\_link](mangapress-day-link.md)
+* [mangapress\_sanitize\_{$type}](mangapresssanitize-type.md)
 
 ## Filters
 
