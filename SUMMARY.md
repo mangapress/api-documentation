@@ -21,7 +21,6 @@
 * [mangapress\_get\_calendar](//mangapress-get-calendar.md)
 * [mangapress\_month\_link](mangapress-month-link.md)
 * [mangapress\_day\_link](mangapress-day-link.md)
-* [mangapress\_sanitize\_{$type}](mangapresssanitize-type.md)
 
 ## Filters
 
@@ -30,6 +29,7 @@
 * [mangapress\_comic\_front\_slug](filters/mangapresscomic-front-slug.md)
 * [the\_latest\_comic\_content\_error](filters/thecomicarchive-content-error/thelatest-comic-content-error.md)
 * [the\_comicarchive\_content\_error](filters/thecomicarchive-content-error.md)
+* [mangapress\_sanitize\_{$type}](mangapresssanitize-type.md)
 
 ## Actions
 
