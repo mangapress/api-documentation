@@ -9,7 +9,7 @@
 * [Image Sizes](//image-sizes.md)
 * [Conditional Template Tags](/conditional-template-tags.md)
 
-### Template Tags
+## Template Tags
 
 * [mangapress\_bookmark\_button](mangapressbookmark-button.md)
 * [mangapress\_comic\_navigation](/mangapress-comic-navigation.md)
@@ -33,9 +33,13 @@
 * [the\_latest\_comic\_content\_error](filters/thecomicarchive-content-error/thelatest-comic-content-error.md)
 * [the\_comicarchive\_content\_error](filters/thecomicarchive-content-error.md)
 * [mangapress\_sanitize\_{$type}](mangapresssanitize-type.md)
+* mangapress\_comic\_image
 
 ## Actions
 
 * [save\_post\_mangapress\_comic](actions/savepost-mangapresscomic.md)
 * [latest\_comic\_start](actions/latestcomic-start.md)
 * [latest\_comic\_end](actions/latestcomic-end.md)
+
+
+
