@@ -34,9 +34,6 @@
 * [the\_comicarchive\_content\_error](filters/thecomicarchive-content-error.md)
 * [mangapress\_sanitize\_{$type}](mangapresssanitize-type.md)
 * [mangapress\_comic\_image](filters/mangapresscomic-image.md)
-* mangapress\_archive\_gallery\_style
-
-* mangapress\_bookmark\_styles
 
 ## Actions
 
